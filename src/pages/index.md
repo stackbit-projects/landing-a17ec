@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Continual
+    title: Payments on the Web3 Era
     image: images/5.jpg
     content: >-
       Continual allows you to easily integrate your services with automated
