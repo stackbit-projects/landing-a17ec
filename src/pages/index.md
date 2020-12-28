@@ -6,8 +6,8 @@ sections:
     title: Continual
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Continual allows you to easily integrate your services with automated
+      payments over periods of time, events, user actions, and more.
     actions:
       - label: Get Started
         url: /docs
